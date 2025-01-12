@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tahirpukhta
 - 👀 I’m interested in Software Development, Data Science, and AI.
-- 🌱 I’m eagerly learning GitHub, HTML/CSS, JavaScript, Python, APIs, Flask, SQL, Docker, Machine Learning, Deep Learning, BI Tools, Exploratory data analysis, and much more!
-- 💞️ I’m looking to collaborate on projects, research work, and anything  related to Software Development and AI.
+🌱 I’m eagerly learning Software Development, Data Structures and Algorithms, Machine Learning, Deep Learning, BI Tools, Statistics, and Mathematics.
+- 💞️ I’m looking to collaborate on projects, research work, and anything  related to the above-mentioned domains.
 - 📫 How to reach me: Here's my LinkedIn profile URL: www.linkedin.com/in/tahir-pukhta
 
 <!---
